@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "793872628296",
+    "project_id": "therwat-chatapp",
+    "storage_bucket": "therwat-chatapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:793872628296:android:4a38ea7429cbf4852cb67d",
+        "android_client_info": {
+          "package_name": "com.example.app1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpfsaTJhmx5hxreBc8Qxl-QQT6vFoiuGU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
